@@ -1,0 +1,16 @@
+{
+  "prompts": [
+    {
+      "property": "view engine",
+      "default": "ejs"
+    }
+  ],
+  "package.json": {
+    "dependencies": {
+      "express": "3.x.x"
+    }
+  },
+  "view engines": {
+    "ejs": "0.8.x"
+  }
+}

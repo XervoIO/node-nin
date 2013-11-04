@@ -1,0 +1,18 @@
+{
+  "prompts": [
+    {"property":"name"},
+    {
+      "property": "version",
+      "default": "0.0.0"
+    },
+    {
+      "property": "description",
+      "default": ""
+    },
+    {
+      "property": "main",
+      "default": "index.js"
+    }
+  ],
+  "package.json": {}
+}
